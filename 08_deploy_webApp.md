@@ -27,3 +27,4 @@
 *Edit the inbound rules in the security group of the EC2, in order to allow traffic from the particular port (In this case, allow port 3000 and source anywhere).*
 
 **Project Deployed**
+8. Install NGINX - `sudo apt install nginx`
